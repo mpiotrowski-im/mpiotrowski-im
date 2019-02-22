@@ -16,4 +16,6 @@ You may obtain a copy of the License at
 # O czym
 Moje opinie i odkrycia dotyczące programowania.
 
-Jak każdy programista natrafiam na rzeczy trudne, słabo udokumentowane lub nowe (przynajmniej dla mnie). Postanowiłem, że najciekawszymi (dla mnie) podzielę się z innymi. Na początek tylko po polsku a jak znajdę chwilę, to niektóre wpisy otrzymają wersję angielską.
+Jak każdy programista natrafiam na rzeczy trudne, słabo udokumentowane lub nowe (przynajmniej dla mnie). Postanowiłem, że najciekawszymi (dla mnie) podzielę się z innymi.
+
+Jeśli ktoś chce się ze mną skontaktować to może użyć LinkedIn (adres u dołu strony).

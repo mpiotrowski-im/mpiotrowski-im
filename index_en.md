@@ -14,6 +14,8 @@ You may obtain a copy of the License at
 -->
 
 # About
-My views on programming. Some of my experience.
+A blog about my views and experiences with programming.
 
 As a programmer I encounter many interesting problems (for me). I decided to share some of my knowledge with other people.
+
+If you want to contact me you can do it using LinkedIn (link on the bottom of the page).
