@@ -15,3 +15,12 @@ Then came time when I needed to add one big open source library. It was the mome
 The library which I needed is currently repackaged so it will be compatible with java module system but the process is still ongoing when I write this post. I can imagine how the repackaging effort could be frustrating...
 
 To summarize: my experience confirmed my opinion that the java module system in its current form is a mistake. Jigsaw project only brought mess into the java ecosystem giving almost nothing in return (my main objection being no support for module versioning). I can imagine how many existing and valuable libraries are incompatible with the java module system for the same reason: splitting API and implementation classes existing in the same packages into several jar files. In my life as a programmer I have seen lots of libraries which did that...
+<!--
+Copyright 2019 Michał Piotrowski
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+-->

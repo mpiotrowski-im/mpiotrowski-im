@@ -15,3 +15,12 @@ Wtedy nadszedł moment, w którym potrzebowałem użyć pewnej rozbudowanej bibl
 Biblioteka, z której potrzebowałem skorzystać jest obecnie przepisywana na zgodną z systemem modułów, ale prace jeszcze nie zostały zakończone. Potrafię sobie jednak wyobrazić frustrację związaną z tą niewdzięczną pracą...
 
 Podsumowując: utwiedziłem się w przekonaniu, że system modułów Javy w obecnej formie i stanie to pomyłka. Wprowadził tylko bałagan w zamian oferując niewiele (mój główny zarzut -- brak obsługi wersjonowania modułów). Potrafię sobie wyobrazić, że istnieje tysiące wartościowych bibliotek, które z tego samego powodu nie będą mogły zostać użyte z systemem modułów. Podział biblioteki na API i implementację przy jednoczesnym wykorzystaniu tych samych nazw pakietów często spotykałem na swojej drodze jako programisty...
+<!--
+Copyright 2019 Michał Piotrowski
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+-->
